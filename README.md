@@ -1,17 +1,16 @@
 ## 💻 C Learning Journey
 
-Este repositório mostra minha evolução na linguagem C, desde os conceitos básicos até estruturas de dados e algoritmos mais avançados. Aqui estão exercícios e implementações que fiz ao longo dos estudos, com foco em desenvolver lógica de programação e entender melhor como resolver problemas na prática.
+Este repositório documenta minha progressão na linguagem C, desde os conceitos básicos até estruturas de dados e algoritmos mais avançados. Aqui estão exercícios e implementações que fiz ao longo dos estudos, com foco em desenvolver lógica de programação e entender melhor como resolver problemas na prática.
 
-## 📚 O que tem aqui?
+## 📚 Estrutura do Repositório
 
-Os estudos estão organizados em módulos para facilitar a navegação e a revisão dos conteúdos:
-
-* **Lógica Básica:** Condicionais (if/else) e fundamentos da tomada de decisão
-* **Repetição:** Uso de `for` e `while`, com foco em controle de fluxo
-* **Dados:** Arrays, matrizes e uso de funções para organização do código
-* **Ordenação:** Implementação de algoritmos como Bubble Sort e Selection Sort
-* **Estruturas de Dados:**
-
+* **01-entrada-saida:** Fundamentos de entrada de dados e exibição no console  
+* **02-condicionais:** Estruturas de decisão com `if` e `else`  
+* **03-loops:** Controle de fluxo com `for` e `while`  
+* **04-arrays:** Vetores, matrizes e manipulação de dados  
+* **05-funcoes:** Organização e reutilização de código  
+* **06-algoritmos:** Implementação de algoritmos como Bubble Sort e Selection Sort  
+* **07-estruturas-de-dados:** Estruturas mais avançadas e manipulação de dados  
   * Pilhas (Stack)
   * Filas (Queue)
   * Listas Encadeadas (Linked List)
@@ -38,6 +37,9 @@ Para compilar e executar os exercícios, utilize o GCC:
 gcc caminho/do/arquivo.c -o programa
 ./programa
 ```
+## 📌 Próximos passos
+
+* Aplicar esses conceitos em projetos práticos
 
 ## 🚀 Observação
 
