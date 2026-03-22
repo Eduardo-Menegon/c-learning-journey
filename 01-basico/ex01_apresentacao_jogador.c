@@ -1,33 +1,29 @@
 /* Crie um programa que peça o primeiro nome de um jogador, sua idade e a quantidade de gols que ele já fez na carreira. Em seguida, exiba essas informações na tela. */
 
-int main() { 
+int main()
+{
 
-char nome [20]; 
+    char nome[20];
 
-int idade, gols; 
+    int idade, gols;
 
- 
+    printf("Informe seu primeiro nome: ");
 
-printf("Informe seu primeiro nome: "); 
+    scanf("%s", &nome);
 
-scanf("%s", &nome); 
+    printf("Informe sua idade: ");
 
-printf("Informe sua idade: "); 
+    scanf("%d", &idade);
 
-scanf("%d", &idade); 
+    printf("Informe quantos gols voce fez em sua carreira: ");
 
-printf("Informe quantos gols voce fez em sua carreira: "); 
+    scanf("%d", &gols);
 
-scanf("%d", &gols); 
+    printf("Seu nome e: %s\n", nome); // colocar o %s dentro das aspas para aparecer no final
 
- 
+    printf("sua idade e: %d\n ", idade);
 
-printf("Seu nome e: %s\n", nome);                 //colocar o %s dentro das aspas para aparecer no final 
+    printf("voce possui um total de %d gols em sua carreira", gols);
 
-printf("sua idade e: %d\n ", idade); 
-
-printf("voce possui um total de %d gols em sua carreira", gols); 
-
-return 0; 
-
-} 
+    return 0;
+}
