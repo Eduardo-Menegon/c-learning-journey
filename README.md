@@ -5,12 +5,13 @@ Este repositório documenta minha progressão na linguagem C, desde os conceitos
 ## 📚 Estrutura do Repositório
 
 * **01-entrada-saida:** Fundamentos de entrada de dados e exibição no console  
-* **02-condicionais:** Estruturas de decisão com `if` e `else`  
-* **03-loops:** Controle de fluxo com `for` e `while`  
-* **04-arrays:** Vetores, matrizes e manipulação de dados  
-* **05-funcoes:** Organização e reutilização de código  
-* **06-algoritmos:** Implementação de algoritmos como Bubble Sort e Selection Sort  
-* **07-estruturas-de-dados:** Estruturas mais avançadas e manipulação de dados  
+* **02-condicionais:** Estruturas de decisão com `if` e `else`
+* **03-selecao-multipla:** Implementação de menus e fluxos de decisão otimizados com switch-case.  
+* **04-loops:** Controle de fluxo com `for` e `while`  
+* **05-arrays:** Vetores, matrizes e manipulação de dados  
+* **06-funcoes:** Organização e reutilização de código  
+* **07-algoritmos:** Implementação de algoritmos como Bubble Sort e Selection Sort  
+* **08-estruturas-de-dados:** Estruturas mais avançadas e manipulação de dados  
   * Pilhas (Stack)
   * Filas (Queue)
   * Listas Encadeadas (Linked List)
