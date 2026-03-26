@@ -12,6 +12,9 @@ Se o usuário escolher a opção 2, o programa deve encerrar.
 
 Se for digitada uma opção inválida, exiba a mensagem "Opção inválida!". */
 
+#include <stdio.h>
+#include <string.h>
+
 int main()
 {
 

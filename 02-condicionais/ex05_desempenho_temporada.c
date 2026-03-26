@@ -9,6 +9,9 @@
     Se fez menos de 5 gols,
     exibir "Temporada abaixo do esperado."*/
 
+    #include <stdio.h>
+    #include <string.h>
+
 int main(){
 
     int gols;

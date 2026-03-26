@@ -6,6 +6,8 @@ Empate = 1 ponto
 
 Derrota = 0 pontos */
 
+#include <stdio.h>
+#include <string.h>
  
 int main() {
     int vitorias, empates, total;

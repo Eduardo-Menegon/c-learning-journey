@@ -10,6 +10,9 @@ Sair
 
 O usuário deve digitar a opção desejada e o programa deve mostrar uma mensagem correspondente. Se o usuário digitar 4, o programa deve exibir "Encerrando pedido...". Se digitar qualquer outro número, mostrar "Opção inválida!". */
 
+#include <stdio.h>
+#include <string.h>
+
 int main()
 {
 

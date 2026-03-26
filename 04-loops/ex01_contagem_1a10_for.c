@@ -1,5 +1,8 @@
 /*Escreva um programa que imprima os números de 1 a 10, um por linha.*/
 
+#include <stdio.h>
+#include <string.h>
+
 int main()
 {
 

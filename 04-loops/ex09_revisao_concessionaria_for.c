@@ -37,6 +37,9 @@ Uma concessionária deseja criar um sistema para registrar os carros que entram 
 
 - Se o ano for igual ou maior que 2005 e estiver funcionando normalmente, então, retorne "O carro X está em boas condições!".*/
 
+#include <stdio.h>
+#include <string.h>
+
 int main()
 {
 

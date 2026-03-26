@@ -1,5 +1,8 @@
 /*Peça ao usuário para digitar o tempo jogado em minutos. Depois, converta esse valor para horas e minutos e exiba o resultado.*/
 
+#include <stdio.h>
+#include <string.h>
+
 int main()
 {
 

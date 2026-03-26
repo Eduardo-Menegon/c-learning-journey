@@ -6,6 +6,9 @@ A soma de 1 ate 5 e: 15
 
 (Cálculo: 1 + 2 + 3 + 4 + 5 = 15)*/
 
+#include <stdio.h>
+#include <string.h>
+
 int main()
 {
 

@@ -40,6 +40,9 @@ Exemplo de saída se N for 10:
 
 92 94 96 98 100 102 104 106 108 110 */
 
+#include <stdio.h>
+#include <string.h>
+
 int main()
 {
 

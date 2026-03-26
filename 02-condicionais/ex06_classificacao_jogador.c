@@ -14,6 +14,9 @@ O programa deve classificar o jogador nas seguintes categorias:
 
 ✅ Se tem mais de 20 anos e fez 15 gols ou menos: "Estevão" */
 
+#include <stdio.h>
+#include <string.h>
+
 int main()
 {
 

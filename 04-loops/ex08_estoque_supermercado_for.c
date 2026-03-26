@@ -23,6 +23,9 @@ Para cada produto, solicitar:
 
 - Exibir imediatamente se o produto precisa de reposição ou não.*/
 
+#include <stdio.h>
+#include <string.h>
+
 int main()
 {
 

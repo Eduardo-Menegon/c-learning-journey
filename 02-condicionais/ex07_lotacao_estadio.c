@@ -14,6 +14,9 @@ Com base na taxa de ocupação do estádio, o programa deve classificar a partid
 
 ✅ Se estiver abaixo de 50%: "Morumbis" */
 
+#include <stdio.h>
+#include <string.h>
+
 int main()
 {
 

@@ -6,6 +6,9 @@ Numeros pares de 1 ate 10:
 
 2 4 6 8 10 */
 
+#include <stdio.h>
+#include <string.h>
+
 int main()
 {
 

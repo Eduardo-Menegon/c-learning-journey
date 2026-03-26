@@ -21,6 +21,9 @@ Exemplo de N = 4:
 *****
 ******* */
 
+#include <stdio.h>
+#include <string.h>
+
 int main()
 {
 

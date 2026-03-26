@@ -14,6 +14,9 @@ Exemplo de saída se o usuário digitar 5:
 
     5 x 10 = 5*/
 
+    #include <stdio.h>
+    #include <string.h>
+
     int
     main()
 {

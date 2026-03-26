@@ -1,5 +1,8 @@
 /*Peça ao usuário os salários de dois jogadores de futebol e mostre a diferença entre eles.*/
 
+#include <stdio.h>
+#include <string.h>
+
 int main()
 {
 
