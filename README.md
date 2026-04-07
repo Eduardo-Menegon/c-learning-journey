@@ -10,9 +10,8 @@ Este repositório documenta minha progressão na linguagem C, desde os conceitos
 * **04-loops:** Controle de fluxo com `for` e `while`  
 * **05-arrays:** Vetores, matrizes e manipulação de dados  
 * **06-funções:** Organização e reutilização de código 
-* **07-ponteiros:** Manipulação de memória e endereços 
-* **08-algoritmos:** Implementação de algoritmos como Bubble Sort e Selection Sort  
-* **09-estruturas-de-dados:** Estruturas mais avançadas e manipulação de dados  
+* **07-ponteiros:** Manipulação de memória e endereços   
+* **08-estruturas-de-dados:** Estruturas mais avançadas e manipulação de dados  
   * Pilhas (Stack)
   * Filas (Queue)
   * Listas Encadeadas (Linked List)
